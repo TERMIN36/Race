@@ -1,0 +1,54 @@
+{
+"distance":350,
+"transports":
+[
+	{
+		"type": "truck",
+		"speed": 60,
+		"countWheels": 10,
+		"cargoWeight": 1500.0
+	},
+	{
+		"type": "truck",
+		"speed": 60,
+		"countWheels": 10,
+		"cargoWeight": 1200.0
+	},
+	{
+		"type": "truck",
+		"speed": 60,
+		"countWheels": 12,
+		"cargoWeight": 2500.0
+	},
+	{
+		"type": "truck",
+		"speed": 60,
+		"countWheels": 10,
+		"cargoWeight": 500.0
+	},
+	{
+		"type": "car",
+		"speed": 120,
+		"countWheels": 4,
+		"people": 5
+	},
+	{
+		"type": "car",
+		"speed": 130,
+		"countWheels": 4,
+		"people": 5
+	},
+	{
+		"type": "bike",
+		"speed": 110,
+		"countWheels": 2,
+		"carriage": true
+	},
+	{
+		"type": "bike",
+		"speed": 160,
+		"countWheels": 2,
+		"carriage": false
+	}
+]
+}
